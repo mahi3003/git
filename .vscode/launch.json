@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Book.Main",
+            "projectName": "git_8343b712"
+        },
+        {
+            "type": "java",
             "name": "Pattern",
             "request": "launch",
             "mainClass": "Pattern",
