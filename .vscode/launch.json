@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "Employee",
+            "projectName": "git_8343b712"
+        },
+        {
+            "type": "java",
+            "name": "Balance",
+            "request": "launch",
+            "mainClass": "Balance",
+            "projectName": "git_8343b712"
+        },
+        {
+            "type": "java",
+            "name": "Tasktwo",
+            "request": "launch",
+            "mainClass": "Tasktwo",
+            "projectName": "git_8343b712"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Book.Main",
