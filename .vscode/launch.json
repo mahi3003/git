@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Task45",
+            "request": "launch",
+            "mainClass": "Task45",
+            "projectName": "git_8343b712"
+        },
+        {
+            "type": "java",
+            "name": "Task44",
+            "request": "launch",
+            "mainClass": "Task44",
+            "projectName": "git_8343b712"
+        },
+        {
+            "type": "java",
+            "name": "Task43",
+            "request": "launch",
+            "mainClass": "Task43",
+            "projectName": "git_8343b712"
+        },
+        {
+            "type": "java",
+            "name": "Task42",
+            "request": "launch",
+            "mainClass": "Task42",
+            "projectName": "git_8343b712"
+        },
+        {
+            "type": "java",
+            "name": "Task4",
+            "request": "launch",
+            "mainClass": "Task4",
+            "projectName": "git_8343b712"
+        },
+        {
+            "type": "java",
             "name": "Employee",
             "request": "launch",
             "mainClass": "Employee",
